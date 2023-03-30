@@ -1,3 +1,10 @@
+*
+
+body {background-color: aquamarine; 
+}
+
+
+
 .brown-sugar {
     color: brown;
     font-family: 'Times New Roman', Times, serif
@@ -12,3 +19,29 @@
     background-color: aqua;
     padding: 20px;
 }
+
+#box-head {
+    margin: 0 auto;
+    width: 900px;
+    background-color: azure; 
+    padding: 20px; 
+    display: block;
+}
+
+.box {
+    width: 400px;
+    background-color: blueviolet;
+    display: inline;
+    float: left;
+    padding: 30px;
+}
+
+p::first-letter {
+
+}
+
+div a {
+    color: black;
+}
+
+div a:hover 
