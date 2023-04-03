@@ -64,6 +64,9 @@ div a:hover {
     color: red;
 }
 
+div b:hover {
+    color: red;
+}
 
 .daftar {
     display: inline;
