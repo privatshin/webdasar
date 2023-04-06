@@ -1,0 +1,26 @@
+.avatar { position: relative; width: 250px; height:250px; overflow: hidden; border-radius: 80%; margin-top: 50px;} .circular--portrait img { width: 100%; height: auto; }
+#Form {
+    display: flex;
+  flex-direction: column;
+  align-items: center}
+  .name {font-size: 40px; text-align: center; font-weight: 750;}
+  .posisi {font-size: 20px; text-align: center; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ .about {
+
+    height:400px;
+    text-align:left;
+
+}
+
+.about img {
+
+    margin-top:8.5px;
+    margin-left:5px;
+    display:inline
+}
+
+.about span {
+
+    display:block;
+}
