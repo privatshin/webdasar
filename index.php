@@ -9,7 +9,7 @@
     echo " tahun";
     echo "<br/>";
     */
-    echo "Hello World, Welcome ".$nama_kamu "Umur Kamu" .$umur "tahun"
+    echo "Hello World, Welcome ".$nama_kamu " Umur Kamu " .$umur " tahun"
     echo "<br/>"
     echo "Berarti .$nama_kamu lahir di tahun ";
     echo 2020-$umur
