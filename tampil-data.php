@@ -2,7 +2,7 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "Dim88@4d3in"; // kalau kosong pakai ""
+$pass = "Dim88@4d3in"; // kosong pake "" (petik)
 $dbs  = "mahasiswa";
 
 $conn = new mysqli($host, $user, $pass, $dbs);
